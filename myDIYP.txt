@@ -1,8 +1,16 @@
 必须分类,#genre#
-
 新加坡5频道,https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 新加坡8频道,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 新加坡U频道,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8 
+
+豆号后没空格,#genre#
+新加坡5频道,https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+新加坡8频道,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+新加坡U频道,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8 
+豆号后有空格,#genre#
+新加坡5频道, https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+新加坡8频道, https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+新加坡U频道, https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8 
 
 mitv,#genre#
 Channel 8 mitv,mitv://fccseuro.pvbox.live:18912/5bcd6bdb0006c2461b6927f016bbc4a2.ts
